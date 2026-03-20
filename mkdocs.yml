@@ -28,6 +28,7 @@ theme:
   features:
     - content.code.copy
     - content.action.edit
+    - content.action.view
     - navigation.expand
     - navigation.footer
     - navigation.indexes
