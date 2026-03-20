@@ -4,6 +4,9 @@
 
 Active placeholder.
 
+!!! note
+    This page is intentionally early-stage. Replace generic language with the actual scope, named leads, and concrete outputs as soon as the task force is active.
+
 ## Objective
 
 Explore how age verification can be discussed at GDC 2026 in a way that is privacy-aware, implementation-oriented, and useful to both policy and technical audiences.
@@ -25,4 +28,3 @@ Explore how age verification can be discussed at GDC 2026 in a way that is priva
 - Which age assurance models should be represented?
 - How should regulatory, safety, and interoperability considerations be balanced?
 - What output would be most useful after the conference?
-

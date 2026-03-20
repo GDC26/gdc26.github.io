@@ -6,8 +6,8 @@ edit_uri: edit/main/docs/
 copyright: "Copyright &copy; Global Digital Collaboration 2026<br/>Working documents for organizers"
 theme:
   name: material
-  logo: assets/project-logo.svg
   favicon: assets/project-icon.svg
+  custom_dir: overrides
   icon:
     repo: fontawesome/brands/github
   palette:
@@ -28,7 +28,6 @@ theme:
   features:
     - content.code.copy
     - content.action.edit
-    - content.action.view
     - navigation.expand
     - navigation.footer
     - navigation.indexes
@@ -93,6 +92,8 @@ extra:
     - icon: fontawesome/solid/globe
       link: https://globaldigitalcollaboration.org/
       name: Official website
+extra_css:
+  - stylesheets/extra.css
 nav:
   - Home: index.md
   - Governing Documents:
@@ -111,4 +112,3 @@ nav:
     - Age Verification: task-forces/age-verification.md
     - Trust Registries: task-forces/trust-registries.md
   - Wiki: https://github.com/GDC26/gdc26.github.io/wiki
-

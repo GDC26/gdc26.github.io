@@ -4,6 +4,9 @@
 
 Active placeholder.
 
+!!! note
+    This page is intentionally early-stage. Replace generic language with real owners, examples, and a sharper scope once the task force starts meeting.
+
 ## Objective
 
 Develop a shared organizer view on trust registries as a conference theme, including interoperability questions, governance patterns, and practical examples that resonate across sectors.
@@ -25,4 +28,3 @@ Develop a shared organizer view on trust registries as a conference theme, inclu
 - Which communities and standards bodies should be reflected?
 - What level of technical depth is right for the main conference audience?
 - Should the task force aim for a briefing note, workshop, or public summary?
-

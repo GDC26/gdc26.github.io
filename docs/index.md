@@ -6,6 +6,9 @@ Welcome to the organizer hub for **Global Digital Collaboration 2026**. This sit
 
 Although the site is public, the content is curated for the people helping shape the conference program, partnerships, and operating model.
 
+!!! info "Working space for organizers"
+    Use this hub for stable content people need to find quickly: governance pages, meeting notes, task force scope, and key links. Use the wiki for rougher drafts and scratch coordination.
+
 ## What this site is for
 
 - Capture shared decisions in a visible, versioned place
@@ -57,9 +60,11 @@ The initial structure reflects the conference themes visible on the main GDC web
 !!! note
     These pages are intentionally lightweight. Start with placeholders, replace them with real decisions as they are made, and keep the wiki for early-stage drafting.
 
+!!! tip "Keep the public site concise"
+    Most visitors want the current decision, the latest meeting note, or the task force page they were told to check. Favor short summaries, clear ownership, and obvious next links.
+
 <div class="grid" markdown>
   [Open Governing Documents](governance/index.md){ .md-button .md-button--primary style="width: 100%; text-align: center" }
 
   [Browse Task Forces](task-forces/index.md){ .md-button .md-button--primary style="width: 100%; text-align: center" }
 </div>
-

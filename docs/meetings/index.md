@@ -2,6 +2,9 @@
 
 This section holds recurring organizer meeting information and minutes.
 
+!!! tip "Meeting hygiene"
+    Publish short notes fast. A lightweight summary posted on the same day is more useful than perfect minutes that arrive two weeks later.
+
 ## Suggested cadence
 
 - Q1 kickoff and planning alignment
@@ -37,4 +40,3 @@ Use this structure for new pages:
 
 - [2026-03-12](2026/2026-03-12.md)
 - [2026-05-21](2026/2026-05-21.md)
-
