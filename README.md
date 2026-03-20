@@ -6,9 +6,9 @@ The structure and tooling are intentionally aligned with the OpenWallet Foundati
 
 ## Live site
 
-Once GitHub Pages is enabled for this repository, the site will be published at:
+The site is published at:
 
-- `https://gdc26.github.io/`
+- [https://gdc26.github.io/](https://gdc26.github.io/)
 
 ## Tech stack
 
@@ -75,4 +75,3 @@ Typical files to edit:
 - The site is written in English.
 - This repository can link out to the GitHub wiki for longer-form collaborative notes.
 - Most current pages are placeholders and can be expanded incrementally as planning advances.
-
