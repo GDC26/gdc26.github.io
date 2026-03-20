@@ -7,7 +7,6 @@ copyright: "Copyright &copy; Global Digital Collaboration 2026<br/>Working docum
 theme:
   name: material
   favicon: assets/project-icon.svg
-  custom_dir: overrides
   icon:
     repo: fontawesome/brands/github
   palette:
