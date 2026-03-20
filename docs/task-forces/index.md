@@ -9,25 +9,21 @@ Task forces are short, focused workstreams that help the organizer group make pr
 
 <div class="grid cards" markdown>
 
--   :material-account-check-outline:{ .lg .middle .gdc-card-icon } __[Age Verification](age-verification.md)__
+-   :material-account-check-outline:{ .lg .middle } __[Age Verification](age-verification.md)__
 
     ---
 
     Explore how age verification should be framed at GDC 2026, balancing privacy, safety, regulation, interoperability, and implementation realism.
 
-    <div class="gdc-cta-row" markdown>
     [Open Task Force](age-verification.md){ .md-button .md-button--primary }
-    </div>
 
--   :material-file-certificate-outline:{ .lg .middle .gdc-card-icon } __[Trust Registries](trust-registries.md)__
+-   :material-file-certificate-outline:{ .lg .middle } __[Trust Registries](trust-registries.md)__
 
     ---
 
     Shape a practical conference narrative for trust registries, including governance approaches, interoperability models, and representative use cases.
 
-    <div class="gdc-cta-row" markdown>
     [Open Task Force](trust-registries.md){ .md-button .md-button--primary }
-    </div>
 
 </div>
 

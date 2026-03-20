@@ -27,7 +27,6 @@ theme:
   features:
     - content.code.copy
     - content.action.edit
-    - content.action.view
     - navigation.expand
     - navigation.footer
     - navigation.indexes
@@ -93,7 +92,7 @@ extra:
       link: https://globaldigitalcollaboration.org/
       name: Official website
 extra_css:
-  - stylesheets/extra.css
+  - stylesheets/header-barcode.css
 nav:
   - Home: index.md
   - Governing Documents:

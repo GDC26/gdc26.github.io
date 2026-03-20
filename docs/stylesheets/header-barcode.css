@@ -1,0 +1,4 @@
+.md-header {
+  border-top: 10px solid transparent;
+  border-image: url("../assets/ow-global-barcode-header.png") 10 round;
+}
