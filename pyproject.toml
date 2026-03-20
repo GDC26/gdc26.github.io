@@ -1,0 +1,9 @@
+[project]
+name = "gdc26-organizer-hub"
+version = "0.1.0"
+description = "Internal-use documentation site for Global Digital Collaboration 2026 organizers."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "zensical",
+]

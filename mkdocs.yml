@@ -1,0 +1,114 @@
+site_name: Global Digital Collaboration 2026
+site_description: Organizer hub for the Global Digital Collaboration 2026 conference.
+repo_name: GDC26/gdc26.github.io
+repo_url: https://github.com/GDC26/gdc26.github.io
+edit_uri: edit/main/docs/
+copyright: "Copyright &copy; Global Digital Collaboration 2026<br/>Working documents for organizers"
+theme:
+  name: material
+  logo: assets/project-logo.svg
+  favicon: assets/project-icon.svg
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - content.code.copy
+    - content.action.edit
+    - content.action.view
+    - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.path
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.suggest
+    - toc.follow
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: GDC26
+      repo: gdc26.github.io
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/GDC26/gdc26.github.io
+      name: GitHub repository
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/GDC26/gdc26.github.io/wiki
+      name: Project wiki
+    - icon: fontawesome/solid/globe
+      link: https://globaldigitalcollaboration.org/
+      name: Official website
+nav:
+  - Home: index.md
+  - Governing Documents:
+    - governance/index.md
+    - Terms of Reference: governance/terms-of-reference.md
+    - Operating Principles: governance/operating-principles.md
+    - Participation Guide: governance/participation-guide.md
+    - Code of Conduct: governance/code-of-conduct.md
+  - Meetings:
+    - meetings/index.md
+    - 2026:
+      - 2026-03-12: meetings/2026/2026-03-12.md
+      - 2026-05-21: meetings/2026/2026-05-21.md
+  - Task Forces:
+    - task-forces/index.md
+    - Age Verification: task-forces/age-verification.md
+    - Trust Registries: task-forces/trust-registries.md
+  - Wiki: https://github.com/GDC26/gdc26.github.io/wiki
+
